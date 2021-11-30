@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyNotes_SQlite.iml" filepath="$PROJECT_DIR$/.idea/modules/MyNotes_SQlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNotes_SQlite.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNotes_SQlite.app.iml" />
+    </modules>
+  </component>
+</project>
